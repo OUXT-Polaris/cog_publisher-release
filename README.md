@@ -1,3 +1,26 @@
+## cog_publisher (kinetic) - 1.0.1-3
+
+The packages in the `cog_publisher` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic cog_publisher --edit` on `Thu, 05 Jul 2018 21:50:26 -0000`
+
+The `cog_publisher` package was released.
+
+Version of package(s) in repository `cog_publisher`:
+
+- upstream repository: https://github.com/OUXT-Polaris/cog_publisher.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.0.1-2`
+- new version: `1.0.1-3`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.3`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## cog_publisher (kinetic) - 1.0.1-2
 
 The packages in the `cog_publisher` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic cog_publisher` on `Thu, 05 Jul 2018 11:59:01 -0000`

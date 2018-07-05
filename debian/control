@@ -1,0 +1,12 @@
+Source: ros-kinetic-cog-publisher
+Section: misc
+Priority: extra
+Maintainer: Masaya Kataoka <ms.kataoka@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-kdl-conversions, ros-kinetic-kdl-parser, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf, ros-kinetic-tf2, ros-kinetic-tf2-geometry-msgs, ros-kinetic-tf2-ros, ros-kinetic-urdf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-cog-publisher
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-geometry-msgs, ros-kinetic-kdl-conversions, ros-kinetic-kdl-parser, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf, ros-kinetic-tf2, ros-kinetic-tf2-geometry-msgs, ros-kinetic-tf2-ros, ros-kinetic-urdf
+Description: The cog_publisher package

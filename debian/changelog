@@ -1,0 +1,12 @@
+ros-kinetic-cog-publisher (1.0.1-1xenial) xenial; urgency=high
+
+  * update dependencies
+  * update package.xml
+  * add build status in README.md
+  * add LICENCE and .travis.yml
+  * initial commit
+  * Contributors: Masaya Kataoka
+
+ -- Masaya Kataoka <ms.kataoka@gmail.com>  Tue, 03 Jul 2018 15:00:00 -0000
+
+
